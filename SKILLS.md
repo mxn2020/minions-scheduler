@@ -1,6 +1,12 @@
 ---
 name: minions-scheduler
-description: Schedules, cron triggers, and timed execution definitions
+id: OC-0156
+version: 1.0.0
+description: "Schedules, cron triggers, and timed execution definitions"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-scheduler — Agent Skills

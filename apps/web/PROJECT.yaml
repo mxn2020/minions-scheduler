@@ -1,0 +1,8 @@
+name: minions-scheduler-web
+project_scope: child
+child_type: web-app
+parent_project: minions-scheduler-workspace
+description: Standard compliance definition for minions-scheduler-web
+priority: high
+deploy_url: null
+tags: null

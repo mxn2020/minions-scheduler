@@ -1,0 +1,8 @@
+name: "@minions-scheduler/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-scheduler-workspace
+description: "CLI for minions-scheduler — Schedules, cron triggers, and timed execution definitions"
+priority: high
+deploy_url: null
+tags: null

@@ -1,0 +1,8 @@
+name: "@minions-scheduler/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-scheduler-workspace
+description: "Schedules, cron triggers, and timed execution definitions"
+priority: high
+deploy_url: null
+tags: null

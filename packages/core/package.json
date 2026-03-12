@@ -1,6 +1,6 @@
 {
   "name": "@minions-scheduler/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Schedules, cron triggers, and timed execution definitions",
   "type": "module",
   "main": "./dist/index.js",

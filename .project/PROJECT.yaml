@@ -1,0 +1,16 @@
+name: minions-scheduler-workspace
+project_scope: main
+project_type: monorepo
+description: Schedules, cron triggers, and timed execution definitions
+tier: prototype
+lane: minions-platform
+priority: medium
+oss: true
+stack: ["typescript"]
+repo: "https://github.com/mxn2020/minions-scheduler"
+deploy_url: null
+last_active: 2026-03-11
+tags: ["minions-scheduler-workspace", "minions", "toolbox"]
+notes: null
+id: null
+category: minion-toolbox
